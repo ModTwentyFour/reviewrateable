@@ -1,8 +1,8 @@
 <?php
 
-namespace Trexology\ReviewRateable\Traits;
+namespace C10ne\ReviewRateable\Traits;
 
-use Trexology\ReviewRateable\Models\Rating;
+use C10ne\ReviewRateable\Models\Rating;
 use Illuminate\Database\Eloquent\Model;
 
 trait ReviewRateable

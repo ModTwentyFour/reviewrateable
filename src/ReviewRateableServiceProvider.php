@@ -1,6 +1,6 @@
 <?php
 
-namespace Trexology\ReviewRateable;
+namespace C10ne\ReviewRateable;
 
 use Illuminate\Support\ServiceProvider;
 

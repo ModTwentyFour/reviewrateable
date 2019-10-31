@@ -1,6 +1,6 @@
 <?php
 
-namespace Trexology\ReviewRateable\Models;
+namespace C10ne\ReviewRateable\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
@@ -9,7 +9,7 @@ use Illuminate\Database\Eloquent\SoftDeletes;
 class Rating extends Model
 {
     use SoftDeletes;
-    
+
     /**
      * @var string
      */

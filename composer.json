@@ -1,5 +1,5 @@
 {
-  "name": "mod24/reviewrateable",
+  "name": "c10ne/reviewrateable",
   "description": "Rating system for Laravel 6",
   "keywords": [
     "rating",
@@ -27,13 +27,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Mod24\\ReviewRateable\\": "src/"
+      "C10ne\\ReviewRateable\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Mod24\\ReviewRateable\\ReviewRateableServiceProvider"
+        "C10ne\\ReviewRateable\\ReviewRateableServiceProvider"
       ]
     }
   }
