@@ -1,6 +1,6 @@
 {
   "name": "c10ne/reviewrateable",
-  "description": "Rating system for Laravel 6",
+  "description": "Rating system for Laravel 6/7",
   "keywords": [
     "rating",
     "Ratable",
