@@ -1,6 +1,6 @@
 {
   "name": "c10ne/reviewrateable",
-  "description": "Rating system for Laravel 6/7",
+  "description": "Rating system for Laravel 8/9",
   "keywords": [
     "rating",
     "Ratable",
@@ -22,8 +22,8 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "php": ">=7.3.0",
-    "illuminate/support": "^7.0|^8.0"
+    "php": ">=7.3.0|^8.0",
+    "illuminate/support": "^8.0|^9.0"
   },
   "autoload": {
     "psr-4": {
